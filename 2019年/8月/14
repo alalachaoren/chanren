@@ -1,0 +1,4 @@
+今天先将昨天看的机器学习关于集成学习的剩下的部分知识先看完。
+拿了一篇师兄给的论文在看，题目是Fog-Empowered Anomaly Detection in IoT Using Hyperellipsoidal Clustering    这篇论文是基于我上次看的那篇
+An efficient hyperellipsoidal clustering algorithm for resource-constrained environments  为基础写的，内容有些相似，
+里面也是通过跟分布式和集中式两种方法作对比，只看到了前面的一部分，讲到的只是对三种方法对于异常检测的知识框架，还没看到算法的分析和数据的对比部分。
