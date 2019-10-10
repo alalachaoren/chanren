@@ -1,0 +1,5 @@
+今天将昨天找的一篇关于增长簇处理关于时序数据的论文‘Incremental Clustering for Time Series Data based on an Improved Leader Algorithm’
+文章里面提到的在处理新的数据时候利用了一个缓冲区的定义，考虑将新的未标记的数据先放在缓冲区，然后再计算缓冲区距离哪个现有的簇距离最近，就将其
+合并到距离最近的簇中。实验部分还没有看，明天看
+然后在改PPT，
+晚上在上分组密码课。
