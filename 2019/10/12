@@ -1,0 +1,4 @@
+今天找了一篇17年的Information Sciences的文章‘Incremental anomaly detection using two-layer cluster-based structure’
+在这篇文章中他采用的减少数据冗余的方法是将数据先过滤掉重复的数据内容，这个方法或许可以用在处理时序数据中，
+然后他也介绍了其他的一些技术，还只是看了前面一部分，感觉这篇论文应该跟我想的那部分有点像，准备好好看
+然后下午在上IT伦理课。
