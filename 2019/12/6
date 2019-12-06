@@ -1,0 +1,3 @@
+今天看了一篇18年的‘Deep Learning: The Frontier for Distributed Attack Detection in Fog-to-Things Computing’
+文章说的是将栈式自动编码器嵌入在分布式计算中，文章其实写的很简单，他这里面实验中采用的数据集也是NSL-KDD，在某一种程度上跟
+以前看的一篇‘Fog-Empowered Anomaly Detection in IoT Using Hyperellipsoidal Clustering’有一定的相似之处。
