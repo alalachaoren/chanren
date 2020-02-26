@@ -1,0 +1,3 @@
+今天接着昨天的那篇论文在看，文章名字是'Multi-label classification via incremental clustering on an evolving data stream'
+文章中提到的是一个在线更新方法，用的是衰减函数，他将所的簇分成成熟的簇和不成熟的簇，以及通过一个4元组来表示一个聚类，
+但是在这个里面我还没看到他是怎么使用这些成熟的簇跟不成熟的簇进行分类以及加上标签的部分。文章还没看完。
