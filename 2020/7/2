@@ -1,0 +1,4 @@
+今天找了一篇18年的‘Online Anomaly Detection With Minimax Optimal Density Estimation in Nonstationary Environments’
+文章方案是分为两步，先是对时序数据使用密度函数进行密度估计，然后再对新观测到的数据密度估计阈值进行异常检测，
+主要是想看一下他在这边是如何进行阈值的计算的，是不是动态变化，能和这个概念漂移扯上关系。
+然后也边在改代码，
