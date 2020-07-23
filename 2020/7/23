@@ -1,0 +1,2 @@
+今天把原文中的测量两个分部之间距离的论文‘Hellinger distance based drift detection for nonstationary environments’找了在看。
+换了方法之后在实验中确实能看到有区别于之前用的那种方法的测量值，实验还在跑。
