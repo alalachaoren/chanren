@@ -1,0 +1,3 @@
+今天在改项目，然后就是看了一篇文章“Learning Competitive and Discriminative Reconstructions for Anomaly Detection”
+这篇文章里面提到的一种对抗学习方法，而不需要对阈值进行设置，然后在考虑能不能结合起来，
+然后就是在跑实验。
