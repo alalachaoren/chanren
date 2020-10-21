@@ -1,0 +1,2 @@
+今天在写论文，然后找了一篇17年的ccs文章"DeepLog: Anomaly Detection and Diagnosis from System Logs hrough Deep Learning",里面也是提到了一个增量式学习的lstm，
+文章感觉有点难，还没看完，明天接着看一下。
