@@ -1,0 +1,6 @@
+今天看了一篇19年的ICCV文章‘Memorizing Normality to Detect Anomaly: Memory-augmented Deep Autoencoder for Unsupervised Anomaly Detection’
+讲的是相对于经典的自动编码器，他增加了一个记忆模块，来存储正常信息，
+在重构的时候，通过这个模块使来将正常数据重构的更趋向于正常，从而通过重构误差进行异常检测。
+感觉可以在他文章中提到的记忆模块这个点出发。
+侧重于在这个记忆模块对正常或异常数据的表示。
+具体的还需要再想想。
